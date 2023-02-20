@@ -6,7 +6,6 @@ import './Header.css';
 
 
 const Header = () => {
-	
 	const {user, onClose} = useTelegram();
 
 	return (
